@@ -1,5 +1,5 @@
 # SkyMaya
-Maya scripts for rigging and animating for Skyrim. Uses [ck-cmd](https://github.com/aerisarn/ck-cmd) for creation kit asset import and export.
+Maya scripts for Skyrim rigging and animation. Uses [ck-cmd](https://github.com/aerisarn/ck-cmd) for creation kit asset import and export.
 
 ![Skywind Logo](/images/TESR_full_alpha.png)
 
@@ -16,52 +16,46 @@ Under-the-hood this repository is bundled with a copy of ck-cmd which handles al
 
 ## Command Reference
 
-### Rigging Commands
-
-#### ![Import Rig Icon](/icons/importrig.png) Import Rig
+### ![Import Rig Icon](/icons/importrig.png) Import Rig
 
 ```
 from skymaya import main
 main.importRig()
 ```
 
-#### ![Retarget Rig Icon](/icons/retargetrig.png) Retarget Rig
+### ![Retarget Rig Icon](/icons/retargetrig.png) Retarget Rig
 
 TODO
 
-#### ![Add Joint Icon](/icons/addskeleton.png) Add Joint(s)
+### ![Add Joint Icon](/icons/addskeleton.png) Add Joint(s)
 
 TODO
 
-#### ![Export Rig Icon](/icons/exportrig.png) Export Rig
+### ![Export Rig Icon](/icons/exportrig.png) Export Rig
 
 TODO
 
-### Skinning Commands
-
-#### ![Texture Skin Icon](/icons/textureskin.png) Texture Skin
+### ![Texture Skin Icon](/icons/textureskin.png) Texture Skin
 
 TODO
 
-#### ![Retarget Skin Icon](/icons/retargetskin.png) Retarget Skin
+### ![Retarget Skin Icon](/icons/retargetskin.png) Retarget Skin
 
 TODO
 
-#### ![Export Skin Icon](/icons/exportskin.png) Export Skin
+### ![Export Skin Icon](/icons/exportskin.png) Export Skin
 
 TODO
 
-### Animating Commands
-
-#### ![Import Animation Icon](/icons/imnportanim.png) Import Animation
+### ![Import Animation Icon](/icons/importanim.png) Import Animation
 
 TODO
 
-#### ![Retarget Animation Icon](/icons/retargetanim.png) Retarget Animation(s)
+### ![Retarget Animation Icon](/icons/retargetanim.png) Retarget Animation(s)
 
 TODO
 
-#### ![Export Animation Icon](/icons/exportanim.png) Export Animation(s)
+### ![Export Animation Icon](/icons/exportanim.png) Export Animation(s)
 
 TODO
 
